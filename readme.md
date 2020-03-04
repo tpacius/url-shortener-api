@@ -31,4 +31,4 @@ GET /stats/total returns total visits for all short links
 
 GET /stats/daily returns today's visits for all short links
 
-The project can also be accessed here via my Heroku deployment.
+The project can also be accessed here via my Heroku deployment. [https://boiling-woodland-14324.herokuapp.com/]
