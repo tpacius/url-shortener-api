@@ -23,5 +23,5 @@ VALUES ('Z1lTluj', 'test.com', current_timestamp);
 INSERT INTO total_visits (short_url, total_visits, created_on)
 VALUES ('Z1lTluj', 10, current_timestamp);
 
-INSERT INTO total_visits (short_url, daily_visits, created_on)
+INSERT INTO daily_visits (short_url, daily_visits, created_on)
 VALUES ('Z1lTluj', 5, current_timestamp);
