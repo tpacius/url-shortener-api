@@ -7,6 +7,8 @@ To run the project, it is expected that the user has Postgres installed with a u
 
 Once this postgres user is set up the DB tables can be initialized using the init.sql script.
 
+After Postgres set up is complete, run npm install
+
 The server can then be run using npm run start.
 
 Routes/Endpoints
